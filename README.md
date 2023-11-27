@@ -13,8 +13,8 @@
     <img align="center" alt="Eliza-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Eliza-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="Eliza-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Eliza-SQL" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />         
-  </div>
+    <img align="center" alt="Eliza-SQL" height="30" width="40"src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" />       
+     </div>
   
 ##
   <div>
