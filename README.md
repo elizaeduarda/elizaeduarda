@@ -1,9 +1,9 @@
 ### Olá, Eu sou a Eliza Eduarda 👋
 
 - 🎓 Estudante de Engenharia da Computação
-- 💡 Fascinada por resolver problemas e criar soluções inovadoras
+- 💡  Com objetivo de resolver problemas e criar soluções inovadoras
 - 🌱 Sempre em busca de aprender novas linguagens de programação
-- 🚀 Obcecada por aprimorar minhas habilidades técnicas
+- 🚀 Buscando aprimorar minhas habilidades técnicas
 
 ![](https://github-readme-stats.vercel.app/api?username=elizaeduarda&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=elizaeduarda&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
