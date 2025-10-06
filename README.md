@@ -2,7 +2,7 @@
 
 - 🎓 Estudante de Engenharia da Computação
 - 💡  Com objetivo de resolver problemas e criar soluções inovadoras
-- 🌱 Sempre em busca de aprender novas linguagens de programação
+- 🌱 Sempre em busca de aprender
 - 🚀 Buscando aprimorar minhas habilidades técnicas
 
 ![](https://github-readme-stats.vercel.app/api?username=elizaeduarda&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
