@@ -38,14 +38,6 @@ CrowdStrike • Zscaler • ManageEngine Endpoint Central • Cisco Email Securi
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-![](https://github-readme-stats.vercel.app/api?username=elizaeduarda&theme=tokyonight&hide_border=true&include_all_commits=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=elizaeduarda&theme=tokyonight&hide_border=true&layout=compact)
-
----
-
 ## 📫 Onde me encontrar
 
 <a href="https://www.linkedin.com/in/eliza-eduarda-pereira-barbosa-17778b224/" target="_blank">
