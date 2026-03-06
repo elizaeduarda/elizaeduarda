@@ -9,6 +9,10 @@
 Atuo com **defesa cibernética, gestão de vulnerabilidades, resposta a incidentes e governança**, com objetivo de unir **análise técnica + programação** para criar soluções eficientes em ambientes corporativos.
 
 ---
+## 🔐 Ferramentas de Segurança
+
+CrowdStrike • Zscaler • ManageEngine Endpoint Central • Cisco Email Security • Check Point Firewall
+---
 
 ## 🛠️ Tecnologias & Linguagens
 
@@ -29,12 +33,6 @@ Atuo com **defesa cibernética, gestão de vulnerabilidades, resposta a incident
 <img align="center" alt="Java" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 
 </div>
-
----
-
-## 🔐 Ferramentas de Segurança
-
-CrowdStrike • Zscaler • ManageEngine Endpoint Central • Cisco Email Security • Check Point Firewall
 
 ---
 
