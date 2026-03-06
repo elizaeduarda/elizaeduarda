@@ -41,14 +41,6 @@ Também tenho experiência com **desenvolvimento de software**, utilizando progr
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=elizaeduarda&theme=tokyonight&hide_border=false&include_all_commits=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=elizaeduarda&theme=tokyonight&hide_border=false&layout=compact)
-
----
-
 ## 📫 Contato
 
 <div>
