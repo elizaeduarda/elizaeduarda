@@ -2,7 +2,7 @@
 
 🎓 Estudante de **Engenharia da Computação**  
 🛡️  **Cybersecurity**  
-💻 **Desenvolvimento**– Java, Python, C#, C++, SQL, React Native, HTML/CSS  
+💻 **Desenvolvimento** – Java, Python, C#, C++, SQL, React Native, HTML/CSS  
 
 🚀 Apaixonada por tecnologia, automação, segurança e resolução de problemas.
 
