@@ -10,8 +10,6 @@
 - Resposta a incidentes  
 - Governança de segurança  
 
-💡 Meu objetivo é integrar **análise técnica + desenvolvimento** para criar soluções seguras, escaláveis e eficientes em ambientes corporativos.
-
 ---
 
 ## 🔐 Ferramentas de Segurança
